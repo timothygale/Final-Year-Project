@@ -1,0 +1,96 @@
+Project Specification
+=====================
+
+Student: Timothy Gale (H8060826)
+Course: BA Web and Multimedia Design
+
+Project Title: Project Management Web Application
+Supervisor: Andrew Bingham 
+
+Key Points
+----------
+
+- Project Tracking Web Application
+- Record progress whilst working on group projects
+- Stores information on team members, roles, projects, collaboration, milestones, goals
+
+Initial Process
+-------
+
+- Team Member/Project Lead registers with application 
+- Creates profile page
+	- name
+	- job title
+	- project role
+	- photo
+	- current projects
+	- history
+	- software usage
+	- reputation
+	
+- Creates project page (dates, timescales, objectives)
+- Invites other team members to join application
+- Team register and create profiles
+- Invites team members to project  
+
+Ongoing Process
+---------------
+
+- Once project is complete the information is archived and marked as complete/pending/continuous
+- any team member can setup project page and invite other team members to join
+- reputation system allows colleagues to review the efforts of others.  
+
+Problem 
+-------
+
+During my placement with the South Tees NHS Foundation Trust, there was no system of tracking and recording real time progress and achievements within team based projects. Completed projects and documentation would be added to the department's application database, but lacked comprehensive evidence of collaboration and a breakdown of each developer's contribution. Group tasks with varying requirements would be a regular occurrence within the team, with responsibility often switching between employees there would be the need for in depth updates that could be avoided with organised project history to hand.        
+
+Project Scope
+-------------
+
+The solution would be to develop a project management web application that is flexible enough to cater for various project types, team sizes and disciplines. The application should be built upon a secure content management system that provides users with the ability to create projects, assign roles, input progress and review activity.   
+
+This application will integrate a user reputation system, allowing users to rate or score peers on their performance during a particular project or task. As a result of this, each user will be given a numeric score based on overall performance that will be carried over onto new projects.
+
+Implementation
+--------------
+
+The application will integrate current web techniques and standards including the html5 canvas capabilties in order to output data into a graphical format. Modern design flexibility using CSS will be used throughout, ensuring a responsive approach to page layout accross various screen resolutions. In terms of content management, the application interface will be written using PHP with a MySQL database backend. A number of JavaScript libraries will be used to provide advanced functionality where nessesary to improve user experience. 
+
+As a result of the project dealing with mutliple development layers, ensuring a seperation of concerns will promote clarity when manipulating data on a variety of levels.
+
+In terms of software, Adobe Photoshop and Adobe Fireworks will be used for all digital image creation. The majority of both front-end and back-end development will be written using TextMate and Notepad++. A local development environment will be simulated using MAMP/XAMP, for a secure testing environment. 
+
+Proposed Features
+-----------------
+
+- Team member Registration and Login  
+- Team member Profiles
+- Dashboard containing all current activity across active projects.
+- Project/task management area
+- Project pages including progress graphs, milestones and team roles
+- Administrator access across all features 
+
+Personal Aims & Objectives
+--------------------------
+
+- Further my skills with Object Oriented Programming
+- Explore the PHP Zend Framework
+- Further my skills with the html5 canvas element and corrosponding JavaScript frameworks
+- Adapt to agile development methodologies
+
+Project Aims & Objectives
+-------------------------
+
+- Integrate responsive design techniques for cross device support
+- Develop a custom CMS with varying levels of access
+
+Project Schedule
+----------------
+
+Project Specification
+Research and Analysis
+Design
+Implementation	
+Testing
+Report
